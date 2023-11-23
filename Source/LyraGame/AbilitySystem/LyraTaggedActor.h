@@ -28,6 +28,8 @@ public:
 #endif
 	//~End of UObject interface
 
+	FAnimUpdateRateParameters
+
 protected:
 	// Gameplay-related tags associated with this actor
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category=Actor)
